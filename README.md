@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/AeiqMDZ.png" alt="Network File Shares and Permissions"/>
+<img src="https://github.com/user-attachments/assets/ae64f2c3-0754-4a6f-8e8d-c3a837b42cdd" alt="osTicket logo"/>
 </p>
 
 
